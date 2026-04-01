@@ -25,13 +25,16 @@ Built with **Transformers (BERT)** and **Gradio UI**, this app predicts whether 
 * Framework: 🤗 Transformers + PyTorch
 
 ---
+## ♾️ Google Colab link
+click here https://colab.research.google.com/drive/1DbUU8SQfzpqvifrmhhuWY7oMyKNgSjeb?usp=sharing
 
+---
 ## 📦 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sentiment-analyzer.git
+git clone https://github.com/chandanraj-03/sentiment-analyzer.git
 cd sentiment-analyzer
 ```
 
